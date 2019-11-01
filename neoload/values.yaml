@@ -1,0 +1,11 @@
+mode: Managed
+apiToken: changme
+
+# Uses the default zoneId if not specified
+# zone: changeme
+
+# defaults to NTS, uncomment to use NLWEB
+# leaseServer: NLWEB
+#nts:
+#  url:
+#  login:
